@@ -1,0 +1,19 @@
+{
+    "name": "thaumi-nave",
+    "version": "0.1.0",
+    "description": "La extensión «Nave» de Thaumi (Inventores T3, «Los planetas que no se ven»): la luz de las estrellas que manda la nave de Eco.",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "nave.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
